@@ -1,4 +1,5 @@
 # WeatherApp
+You need to have Maven installed in your pc
 To run this project ,Please follow the below steps
 Clone the repo
 Navigate to the repo
